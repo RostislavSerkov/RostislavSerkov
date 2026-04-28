@@ -21,13 +21,6 @@
 
 ## Проекты
 
-### 🧠 Growth Tracker
-Личный дашборд для отслеживания настроения, задач, привычек и прогресса в DevOps-обучении.
-
-**Стек:** Python · FastAPI · SQLite · Next.js · TypeScript · Tailwind CSS · Docker  
-**Фичи:** трекер настроения, ежедневные задачи с приоритетами, привычки со стриком, интерактивная DevOps roadmap, шаблоны и авто-планировщик дня  
-[→ Открыть репозиторий](https://github.com/RostislavSerkov/growth-tracker)
-
 ---
 
 ### 🖥 Linux Monitoring v1.0
